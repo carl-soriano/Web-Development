@@ -1,7 +1,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/heroImage.jpeg');
+    background: url('https://wallpapersmug.com/u/cb4cfc/abstract-dark-geometry-cubical-surface.jpg');
     background-size:cover;
     position:relative;
 }
@@ -52,7 +52,7 @@
     font-size: 36px;
     cursor: pointer;
 }
-.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
+.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-github:hover {
     color: #008000;
 }
 .fab {
@@ -70,4 +70,8 @@
 }
 #contact {
     padding-bottom: 4rem;
+}
+
+a {
+    color: silver;
 }
