@@ -23,6 +23,9 @@
 /* about section image css */
 .imageAboutPage {
     width: 100%;
+    border-radius: 25px;
+    background: #020300;
+    padding: 7px;
 }
 /* services section css */
 .servicesText.card {
