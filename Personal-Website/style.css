@@ -27,6 +27,13 @@
     background: #020300;
     padding: 7px;
 }
+
+.imageAccolades {
+    width: 100%;
+    border-radius: 25px;
+    background: #020300;
+    padding: 7px;
+}
 /* services section css */
 .servicesText.card {
     height: 450px;
@@ -67,13 +74,11 @@
     text-align: center;
 }
 
-#about, #services, #portfolio, #contact {
+#about, #services, #portfolio, #contact,#accolades {
     margin-top: 4rem;
     padding-top: 4rem;
 }
-#contact {
-    padding-bottom: 4rem;
-}
+
 
 a {
     color: silver;
