@@ -93,3 +93,41 @@ a {
     text-align: center;
     width: 100%;
 }
+
+/* Collapsible section button */
+.btn-primary.collapsed::after {
+    content: "\f054"; /* Unicode character for right arrow */
+}
+
+.btn-primary::after {
+    content: "\f078"; /* Unicode character for down arrow */
+}
+
+/* Portfolio section */
+#projectSection {
+    margin-top: 20px;
+}
+
+/* Additional styles for the collapsible section content */
+#projectSection .card {
+    margin-top: 10px;
+    background-color: #f8f9fa; /* Adjust the background color as needed */
+}
+
+#projectSection .card-body {
+    padding: 20px;
+}
+
+#projectSection img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: Black;
+    border-color: Black ;
+
+}
