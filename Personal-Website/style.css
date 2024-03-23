@@ -81,13 +81,24 @@
     text-align: center;
 }
 
-#about, #services, #portfolio, #contact,#accolades {
+#about, #services, #portfolio, #contact, #accolades {
     margin-top: 4rem;
     padding-top: 4rem;
 }
 
+#services{
+    padding-bottom: 150px;
+}
+#about{
+    padding-bottom: 200px;
+}
+
 #accolades{
     padding-bottom: 100px;
+}
+
+#portfolio{
+    padding-bottom: 300px;
 }
 
 
