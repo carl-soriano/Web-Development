@@ -40,7 +40,13 @@
     border-radius: 25px;
     background: white;
     padding: 7px;
+    height: auto
 }
+
+.first-image {
+    padding-top: 50px;
+}
+
 /* services section css */
 .servicesText.card {
     height: 450px;
